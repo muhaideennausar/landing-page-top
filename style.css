@@ -179,12 +179,14 @@
     color: #e5e7eb;
     margin-top: 5px;
 }
+
 .cta-outline {
     background-color: transparent;
     outline: white 2px solid;
 }
+
 /* ----------------------------- */
-.footer-section{
+.footer-section {
     height: 100px;
     display: flex;
     justify-content: center;
